@@ -1,3 +1,11 @@
+---
+company: khudee
+type: profile-section
+tags:
+  - khudee
+  - company-profile
+---
+
 # Khudee.org — Community Brief
 
 ## Name
